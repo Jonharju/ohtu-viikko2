@@ -1,0 +1,37 @@
+#surefire
+#Sat Mar 19 17:34:05 EET 2016
+testClassesDirectory=C\:\\Users\\Jonas\\ohtu2016\\viikko2\\Ohtu-NhlStatistics1\\target\\test-classes
+classPathUrl.4=C\:\\Users\\Jonas\\.m2\\repository\\net\\sourceforge\\cobertura\\cobertura\\2.1.1\\cobertura-2.1.1.jar
+forkMode=once
+classPathUrl.3=C\:\\Users\\Jonas\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.1\\hamcrest-core-1.1.jar
+classPathUrl.2=C\:\\Users\\Jonas\\.m2\\repository\\junit\\junit\\4.10\\junit-4.10.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\Jonas\\ohtu2016\\viikko2\\Ohtu-NhlStatistics1\\target\\generated-classes\\cobertura
+reportsDirectory=C\:\\Users\\Jonas\\ohtu2016\\viikko2\\Ohtu-NhlStatistics1\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\Jonas\\ohtu2016\\viikko2\\Ohtu-NhlStatistics1\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\Jonas\\ohtu2016\\viikko2\\Ohtu-NhlStatistics1\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\Jonas\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\Jonas\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.10\\surefire-junit4-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+classPathUrl.16=C\:\\Users\\Jonas\\.m2\\repository\\org\\apache\\commons\\commons-lang3\\3.3.2\\commons-lang3-3.3.2.jar
+classPathUrl.15=C\:\\Users\\Jonas\\.m2\\repository\\ch\\qos\\logback\\logback-core\\1.0.13\\logback-core-1.0.13.jar
+includes2=**/*TestCase.java
+enableAssertions=true
+classPathUrl.14=C\:\\Users\\Jonas\\.m2\\repository\\ch\\qos\\logback\\logback-classic\\1.0.13\\logback-classic-1.0.13.jar
+includes1=**/*Test.java
+failIfNoTests=false
+classPathUrl.13=C\:\\Users\\Jonas\\.m2\\repository\\org\\slf4j\\slf4j-api\\1.7.5\\slf4j-api-1.7.5.jar
+includes0=**/Test*.java
+classPathUrl.12=C\:\\Program Files\\Java\\jdk1.8.0_20\\jre\\..\\lib\\tools.jar
+classPathUrl.11=C\:\\Users\\Jonas\\.m2\\repository\\org\\mortbay\\jetty\\jetty-util\\6.1.14\\jetty-util-6.1.14.jar
+classPathUrl.10=C\:\\Users\\Jonas\\.m2\\repository\\org\\mortbay\\jetty\\jetty\\6.1.14\\jetty-6.1.14.jar
+classPathUrl.9=C\:\\Users\\Jonas\\.m2\\repository\\org\\mortbay\\jetty\\servlet-api-2.5\\6.1.14\\servlet-api-2.5-6.1.14.jar
+classPathUrl.8=C\:\\Users\\Jonas\\.m2\\repository\\org\\apache\\ant\\ant-junit\\1.8.3\\ant-junit-1.8.3.jar
+classPathUrl.7=C\:\\Users\\Jonas\\.m2\\repository\\org\\apache\\ant\\ant-launcher\\1.8.3\\ant-launcher-1.8.3.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\Jonas\\.m2\\repository\\org\\apache\\ant\\ant\\1.8.3\\ant-1.8.3.jar
+classPathUrl.5=C\:\\Users\\Jonas\\.m2\\repository\\jaxen\\jaxen\\1.1.4\\jaxen-1.1.4.jar

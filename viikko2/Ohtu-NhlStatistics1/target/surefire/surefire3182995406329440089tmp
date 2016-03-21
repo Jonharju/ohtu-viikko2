@@ -1,0 +1,9 @@
+#surefire
+#Sat Mar 19 17:34:06 EET 2016
+maven.ext.class.path=C\:\\Users\\Jonas\\AppData\\Roaming\\.tmcbeans\\dev\\maven-nblib\\netbeans-eventspy.jar
+skipTests=false
+user.dir=C\:\\Users\\Jonas\\ohtu2016\\viikko2\\Ohtu-NhlStatistics1
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Jonas\\.m2\\repository
+cobertura.report.format=xml
+basedir=C\:\\Users\\Jonas\\ohtu2016\\viikko2\\Ohtu-NhlStatistics1
